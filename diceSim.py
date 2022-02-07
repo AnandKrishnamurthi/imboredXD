@@ -1,4 +1,5 @@
-benis
+non
+
 
 import random
 randNumber = random.randint(1, 6)
